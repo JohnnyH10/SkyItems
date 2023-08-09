@@ -1,0 +1,4 @@
+name: SkyItems
+version: '${version}'
+main: me.johnnyht.skyitems.SkyItems
+api-version: 1.19
